@@ -2,6 +2,7 @@
 
 Dependecies: 
 jpgraph lib (https://jpgraph.net/download/download.php?p=43) - untar in the current directory
+
 PHP GD (`apt install php-gd` for debian-based distro)
 
 Language: PHP 
